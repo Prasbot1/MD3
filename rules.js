@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => await conn.send2But(m.chat, `
 ╭─────[ *RULES* ]─────✧
 ┴
 │¹ Dilarang Hina Bot / Owner
-│² Dilarabg Spam Command
+│² Dilarabg Spam Command Kontol
 │³ Dilarang Kirim Virtex
 │⁴ Dilarang Spam Menu Ga Jelas
 │⁵ Dilarang Telp / Vc
